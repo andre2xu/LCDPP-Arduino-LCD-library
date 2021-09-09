@@ -6,5 +6,3 @@ This is my own custom library for controlling LCDs with the *Arduino*. It provid
 - Write a combination of strings, integers, or even floats to the display using one function.
 - More descriptive functions and parameters.
 - The setting up is done with the class constructor only, which may help your code look more readable.
-<br></br>
-<br></br>
