@@ -63,7 +63,7 @@ mylcd.resetPositions();
 uint
 
 **Description:**\
-Displays the LCD's built-in cursor. 
+Moves the cursor to the desired display line and character block. 
 
 **Syntax:**
 ```cpp
